@@ -1,0 +1,14 @@
+{
+  "name": "isometric-convert",
+  "repo": "llinares/isometric-convert",
+  "description": "Convert isometric to cartesian coordinates and back",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
